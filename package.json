@@ -1,0 +1,15 @@
+{
+  "name": "@book-and-ledger/display-to-ltree",
+  "description": "Convert account display names to ltrees",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-beta.8"
+  },
+  "author": "Mark McKelvy",
+  "license": "UNLICENSED"
+}

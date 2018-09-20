@@ -1,0 +1,1 @@
+# New npm module
